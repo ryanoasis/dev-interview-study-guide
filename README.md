@@ -1,4 +1,4 @@
-# dev-interview-study-guide
+# Dev Interview Study Guide
 
 ## Resources
 
