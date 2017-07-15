@@ -4,7 +4,7 @@
 
 - 1.5 hours a day
 - 6 days a week
-- Monday through Saturday?
+- Monday through Saturday
 
 ## Resources
 
