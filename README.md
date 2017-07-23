@@ -6,6 +6,10 @@
 - 6 days a week
 - Monday through Saturday
 
+## Weekly Detailed Schedule
+
+- TBD
+
 ## Resources
 
 - https://simpleprogrammer.com/2016/10/03/software-developer-interviews/
