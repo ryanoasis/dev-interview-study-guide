@@ -94,6 +94,8 @@
 
 - npcomplete, nap sack, traveling salesman, trees (construction, traversal, manipulation), hash tables, stacks, arrays, linked lists, basic descrete math problems, probability theory, N Choose K problems, recursion, OS (processes, threads, concurrency,concurrency issues, semifors, mutexes, locks, resource allocation, context switching, scheduling, system design - feature sets, distrubed systems, interent basics - routers, balancers, domain name servers, firewalls, basics of search
 
+- coding tests prep places: code chef, top coder, careercup, hackerrank
+
 ## Tips
 
 - Think out load while solving
