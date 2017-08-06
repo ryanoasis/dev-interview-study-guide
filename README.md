@@ -31,6 +31,14 @@
   - Work through coding exercises
     - Cracking the Coding Interview
   - Make flash cards of any generalized info (if applicable)
+### Topic `System Design`
+  - Basic video review of core concept online (30 minutes)
+  - Reading...
+  - Make flash cards of any generalized info (if applicable)
+### Topic `Object Oriented Programming`
+  - Basic video review of core concept online (30 minutes)
+  - Reading...
+  - Make flash cards of any generalized info (if applicable)
 ### Topic `Big O` Review
   - Review flash cards
   - Watch another summary video on topic (30 minutes)
@@ -63,6 +71,8 @@
 - [Learn Anything: CS: Algorithms](https://learn-anything.xyz/computer-science/algorithms)
 - [Khan Academy Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
 - [Cracking the Coding Interview - YouTube playlist](https://www.youtube.com/watch?v=shs0KM3wKv8&list=PLX6IKgS15Ue02WDPRCmYKuZicQHit9kFt)
+- [How to: Work at Google - Example Coding/Engineering Interview - YouTube](https://www.youtube.com/watch?v=XKu_SEDAykw)
+- [How to: Prepare for a Google Engineering Interview](https://www.youtube.com/watch?v=ko-KkSmp-Lk)
 
 ### Books
 
