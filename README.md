@@ -8,6 +8,10 @@
 
 ## Weekly Detailed Schedule
 
+### Topic `Overview Review`
+  - [Data Structures for Interviews](http://www.columbia.edu/~jxz2101/#1)
+  - [Algorithms and data structures for Interview preparation](https://www.youtube.com/watch?v=BchPukWb0CU)
+  - _Optional (if access to Lynda): Four Semesters of Computer Science in 5 Hours with Brian Holt_
 ### Topic `XYZ`
   - Basic video review of core concept online (30 minutes)
   - More in depth with online course study (Stanford course?)
