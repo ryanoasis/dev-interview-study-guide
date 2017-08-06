@@ -39,6 +39,14 @@
   - Basic video review of core concept online (30 minutes)
   - Reading...
   - Make flash cards of any generalized info (if applicable)
+### Topic `API`
+  - Basic video review of core concept online (30 minutes)
+  - Reading...
+  - Make flash cards of any generalized info (if applicable)
+### Topic `Testing`
+  - Basic video review of core concept online (30 minutes)
+  - Reading...
+  - Make flash cards of any generalized info (if applicable)
 ### Topic `Big O` Review
   - Review flash cards
   - Watch another summary video on topic (30 minutes)
@@ -82,4 +90,12 @@
 - Grokking Algorithms: An illustrated guide for programmers and other curious people
 - Computer Science Distilled: Learn the Art of Solving Computational Problems
 
+## Rough notes to put into topics
 
+- npcomplete, nap sack, traveling salesman, trees (construction, traversal, manipulation), hash tables, stacks, arrays, linked lists, basic descrete math problems, probability theory, N Choose K problems, recursion, OS (processes, threads, concurrency,concurrency issues, semifors, mutexes, locks, resource allocation, context switching, scheduling, system design - feature sets, distrubed systems, interent basics - routers, balancers, domain name servers, firewalls, basics of search
+
+## Tips
+
+- Think out load while solving
+- Ask clarifying questions
+-- time or space complexity
