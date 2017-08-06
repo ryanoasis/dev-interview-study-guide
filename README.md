@@ -56,3 +56,14 @@
 - [Retaining Computer Science Knowledge](https://startupnextdoor.com/retaining-computer-science-knowledge/)
 - [CS Flash Cards](https://github.com/jwasham/computer-science-flash-cards)
 - [Learn Anything: CS: Algorithms](https://learn-anything.xyz/computer-science/algorithms)
+- [Khan Academy Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
+
+### Books
+
+- Cracking the Coding Interview: 189 Programming Questions and Solutions 6th Edition
+- Introduction to Algorithms, 3rd Edition (MIT Press) 3rd Edition [aka CLRS]
+- The Algorithm Design Manual
+- Grokking Algorithms: An illustrated guide for programmers and other curious people
+- Computer Science Distilled: Learn the Art of Solving Computational Problems
+
+
