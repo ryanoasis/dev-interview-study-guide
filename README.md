@@ -2,8 +2,10 @@
 
 ## Schedule
 
-- 1.5 hours a day
-- 6 days a week
+- 1.5 hours each weekday
+- 4 hours each Saturday
+- 4 hours each Sunday
+- 7 days a week
 - Monday through Saturday
 
 ## Weekly Detailed Schedule
