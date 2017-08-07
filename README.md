@@ -92,6 +92,11 @@
 - Grokking Algorithms: An illustrated guide for programmers and other curious people
 - Computer Science Distilled: Learn the Art of Solving Computational Problems
 
+### Materials
+
+- [Tile Board (Whiteboard)](http://www.homedepot.com/p/EUCATILE-32-sq-ft-96-in-x-48-in-Hardboard-Thrifty-White-Tile-Board-HDDPTW48/205995949)
+- ["Skinny" Dry Erase Markers](https://www.amazon.com/gp/product/B0006HXJFK)
+
 ## Rough notes to put into topics
 
 - npcomplete, nap sack, traveling salesman, trees (construction, traversal, manipulation), hash tables, stacks, arrays, linked lists, basic descrete math problems, probability theory, N Choose K problems, recursion, OS (processes, threads, concurrency,concurrency issues, semifors, mutexes, locks, resource allocation, context switching, scheduling, system design - feature sets, distrubed systems, interent basics - routers, balancers, domain name servers, firewalls, basics of search
