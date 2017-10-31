@@ -11,9 +11,12 @@
 ## Weekly Detailed Schedule
 
 ### Topic `Overview Review`
-  - [Data Structures for Interviews](http://www.columbia.edu/~jxz2101/#1)
-  - [Algorithms and data structures for Interview preparation](https://www.youtube.com/watch?v=BchPukWb0CU)
-  - _Optional (if access to Lynda): Four Semesters of Computer Science in 5 Hours with Brian Holt_
+  - [ ] [Data Structures for Interviews](http://www.columbia.edu/~jxz2101/#1)
+  - [ ] [Algorithms and data structures for Interview preparation](https://www.youtube.com/watch?v=BchPukWb0CU)
+  - [x] _Optional (if access to Lynda): Four Semesters of Computer Science in 5 Hours with Brian Holt_
+### Topic `Guided Walkthru`
+  - [Grokking Algorithms](https://www.amazon.com/dp/1617292230)
+    - Or any other book or guide of your choosing
 ### Primary language practice
   - [Exercism.io](http://exercism.io/)
     - Going with [Python](http://exercism.io/languages/python/about)
