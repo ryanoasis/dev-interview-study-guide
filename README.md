@@ -32,7 +32,7 @@
   - Work through coding exercises
     - Cracking the Coding Interview
   - Make flash cards of any generalized info (if applicable)
-### Topic `HJKL`
+### Topic `Linked Lists`
   - Basic video review of core concept online (30 minutes)
   - More in depth with online course study (Stanford course?)
   - Work through coding exercises
@@ -60,20 +60,20 @@
 ### Topic `Data Structures: Hash Tables` Review
   - Review flash cards
   - Watch another summary video on topic (30 minutes)
-### Topic `HJKL` Review
+### Topic `Linked Lists` Review
   - Review flash cards
   - Watch another summary video on topic (30 minutes)
 ### Topic `Big O` Review
   - Write code on computer from sample question and verify solution
 ### Topic `Data Structures: Hash Tables` Review
   - Write code on computer from sample question and verify solution
-### Topic `HJKL` Review
+### Topic `Queue` Review
   - Write code on computer from sample question and verify solution
 ### Topic `Big O` Review
   - Write code on whiteboard from sample question and verify solution
 ### Topic `Data Structures: Hash Tables` Review
   - Write code on whiteboard from sample question and verify solution
-### Topic `HJKL` Review
+### Topic `Stack` Review
   - Write code on whiteboard from sample question and verify solution
 
 ## Resources
