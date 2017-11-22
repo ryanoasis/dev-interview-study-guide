@@ -2,7 +2,9 @@
 
 ## Schedule
 
-- 1 hours each weekday
+- 3 hours each weekday
+  - 1 hour in the AM
+  - 2 hours in the PM
 - 3 hours each Saturday
 - 6 days a week
 - Monday through Saturday
