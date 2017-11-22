@@ -34,7 +34,7 @@
   - Work through coding exercises
     - Cracking the Coding Interview
   - Make flash cards of any generalized info (if applicable)
-### Topic `Linked Lists`
+### Topic `Data Structures: Linked Lists`
   - Basic video review of core concept online (30 minutes)
   - More in depth with online course study (Stanford course?)
   - Work through coding exercises
@@ -56,26 +56,38 @@
   - Basic video review of core concept online (30 minutes)
   - Reading...
   - Make flash cards of any generalized info (if applicable)
-### Topic `Big O` Review
+### Topic `Big O` Review #1
   - Review flash cards
   - Watch another summary video on topic (30 minutes)
-### Topic `Data Structures: Hash Tables` Review
+### Topic `Data Structures: Hash Tables` Review #1
   - Review flash cards
   - Watch another summary video on topic (30 minutes)
-### Topic `Linked Lists` Review
+### Topic `Data Structures: Linked Lists` Review #1
   - Review flash cards
   - Watch another summary video on topic (30 minutes)
-### Topic `Big O` Review
+### Topic `System Design` Review #1
+  - Review flash cards
+  - Watch another summary video on topic (30 minutes)
+### Topic `Object Oriented Programming` Review #1
+  - Review flash cards
+  - Watch another summary video on topic (30 minutes)
+### Topic `API` Review #1
+  - Review flash cards
+  - Watch another summary video on topic (30 minutes)
+### Topic `Testing` Review #1
+  - Review flash cards
+  - Watch another summary video on topic (30 minutes)
+### Topic `Big O` Review #2
   - Write code on computer from sample question and verify solution
-### Topic `Data Structures: Hash Tables` Review
+### Topic `Data Structures: Hash Tables` Review #2
   - Write code on computer from sample question and verify solution
-### Topic `Queue` Review
+### Topic `Data Structures: Linked Lists` Review #2
   - Write code on computer from sample question and verify solution
-### Topic `Big O` Review
+### Topic `Big O` Review #3
   - Write code on whiteboard from sample question and verify solution
-### Topic `Data Structures: Hash Tables` Review
+### Topic `Data Structures: Hash Tables` Review #3
   - Write code on whiteboard from sample question and verify solution
-### Topic `Stack` Review
+### Topic `Data Structures: Linked Lists` Review #3
   - Write code on whiteboard from sample question and verify solution
 
 ## Resources
