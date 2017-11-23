@@ -6,8 +6,11 @@
   - 1 hour in the AM
   - 2 hours in the PM
 - 3 hours each Saturday
-- 6 days a week
-- Monday through Saturday
+- 2 hours each Sunday
+- 7 days a week
+- Monday through Sunday
+
+Approximately 20 hours a week
 
 ## Weekly Detailed Schedule
 
